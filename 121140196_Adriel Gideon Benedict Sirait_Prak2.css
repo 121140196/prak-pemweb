@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: white;
+}
+
+.title {
+    color: white;
+}
+
+.menu a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.about {
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+.iframe {
+    margin-bottom: 30px;
+}
+
+.table {
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+.kontak {
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+.kontak button {
+    background-color: lightgreen;
+}
+
+.bawah {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    color: white;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2{
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+h3{
+    color: green;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p{
+    color: gold;
+}
+
+input{
+    color: blue;
+}
+
+div{
+    width: 250px;
+    height: 75px;
+}
+.biodata{
+    background-color: darkslategrey;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
